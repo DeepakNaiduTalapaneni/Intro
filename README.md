@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brucethenooobcoder
-- 👀 I’m interested in projects based on c, c++, java
-- 🌱 I’m currently learning c++, java
-- 💞️ I’m looking to collaborate on c, c++, java
+- 👀 I’m interested in projects based on andriod dev and web devlopment based on django
+- 🌱 I’m currently learning andriod development with kotlin
+- 💞️ I’m looking to collaborate on andriod development, flutter, firebase.
 - 📫 How to reach me email - deepaknaidu207@gmail.com
 
 <!---
