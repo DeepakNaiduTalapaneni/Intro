@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brucethenooobcoder
+- 👋 Hi, I’m @deepak
 - 👀 I’m interested in projects based on andriod dev and web devlopment based on django
 - 🌱 I’m currently learning andriod development with kotlin
 - 💞️ I’m looking to collaborate on andriod development, flutter, firebase.
